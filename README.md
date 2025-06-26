@@ -2,12 +2,18 @@
 ### A full stack app built using Django that let's you upload and showcase your photography skills to the world.
 
 
-# What is Django?
+# LinkedIn Post
+### To see the demo video:
+[Check out my LinkedIn post](https://www.linkedin.com/posts/thepratikguptaa_django-webdevelopment-photography-activity-7343983053574160385-7ice?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFNTblUBnfiK5ntkG3s1-NXJ0TPqdRrZrz0)
+
+#
+#
+## What is Django?
 Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. It takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel.
 
 Django is a full-featured web framework that follows the Model-View-Controller (MVC) architectural pattern. It provides a set of tools and libraries for building web applications, including an ORM, a templating engine, and a built-in admin interface.
 
-# Environment Setup
+## Environment Setup
 To get started with Django, you’ll need to install Python and create a virtual environment. You can create a virtual environment using the following commands:
 
 ```bash

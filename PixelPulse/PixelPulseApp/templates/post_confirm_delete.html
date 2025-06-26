@@ -6,14 +6,16 @@ PixelPulse - Your Photography Portfolio
 
 {% block content %}
 
-<h1 class="text-center m-5">
-    Are you sure you want to delete this post?
-</h1>
-<form method="post">
-    {% csrf_token %}
-    <button class="btn btn-danger mt-3" type="submit">Delete</button>
-    <a href="{% url 'post_list' %}" class="btn btn-primary mt-3">Cancel</a>
-</form>
+<div class="container d-flex justify-content-center align-items-center" style="min-height: 60vh;">
+    <div class="card shadow p-4" style="max-width: 400px; width: 100%;">
+        <h1 class="text-center mb-4 text-danger">Are you sure you want to delete this post?</h1>
+        <form method="post" class="d-flex flex-column gap-2">
+            {% csrf_token %}
+            <button class="btn btn-danger w-100" type="submit">Delete</button>
+            <a href="{% url 'post_list' %}" class="btn btn-primary w-100">Cancel</a>
+        </form>
+    </div>
+</div>
 
 
 {% endblock %}

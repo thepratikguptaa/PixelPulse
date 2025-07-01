@@ -7,6 +7,7 @@
 [Check out my LinkedIn post](https://www.linkedin.com/posts/thepratikguptaa_django-webdevelopment-photography-activity-7343983053574160385-7ice?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFNTblUBnfiK5ntkG3s1-NXJ0TPqdRrZrz0)
 
 #
+![PixelPulse](https://socialify.git.ci/thepratikguptaa/PixelPulse/image?custom_description=An+app+built+using+Django+that+let%27s+you+upload+and+showcase+your+photography+skills+to+the+world.&custom_language=Django&description=1&font=Jost&language=1&name=1&owner=1&pattern=Circuit+Board&theme=Light)
 #
 ## What is Django?
 Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. It takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel.
